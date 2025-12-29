@@ -3,8 +3,9 @@
 # 🧬 Bioinfo-SMU
 
 **南方医科大学生物信息学专业学习资源库**
+<br>
 
-_Bioinformatics Learning Resources for Southern Medical University_
+Bioinformatics Learning Resources for Southern Medical University
 
 </div>
 
@@ -49,18 +50,16 @@ cd Bioinfo-SMU
 
 ---
 
+
 ## 📊 项目统计
 
-<div align="center">
-
-![GitHub watchers](https://img.shields.io/github/watchers/Hinna0818/Bioinfo-SMU?style=flat-square)
-![GitHub repo size](https://img.shields.io/github/repo-size/Hinna0818/Bioinfo-SMU?style=flat-square)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Hinna0818/Bioinfo-SMU?style=flat-square)
-
-[![GitHub stars](https://img.shields.io/github/stars/Hinna0818/Bioinfo-SMU?style=social)](https://github.com/Hinna0818/Bioinfo-SMU/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Hinna0818/Bioinfo-SMU?style=social)](https://github.com/Hinna0818/Bioinfo-SMU/network/members)
-
-</div>
+<p align="center">
+    <img src="https://img.shields.io/github/watchers/Hinna0818/Bioinfo-SMU?style=flat-square">
+    <img src="https://img.shields.io/github/repo-size/Hinna0818/Bioinfo-SMU?style=flat-square">
+    <img src="https://img.shields.io/github/issues-pr-closed/Hinna0818/Bioinfo-SMU?style=flat-square">
+    <a href="https://github.com/Hinna0818/Bioinfo-SMU/stargazers"><img src="https://img.shields.io/github/stars/Hinna0818/Bioinfo-SMU?style=social"></a>
+    <a href="https://github.com/Hinna0818/Bioinfo-SMU/network/members"><img src="https://img.shields.io/github/forks/Hinna0818/Bioinfo-SMU?style=social"></a>
+</p>
 
 ---
 
