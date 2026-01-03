@@ -1,0 +1,101 @@
+site_name: Bioinfo-SMU 学习资源库
+site_url: https://hinna0818.github.io/Bioinfo-SMU/
+site_author: Nan He
+site_description: 南方医科大学生物信息学专业学习资源库
+
+repo_name: Hinna0818/Bioinfo-SMU
+repo_url: https://github.com/Hinna0818/Bioinfo-SMU
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: zh
+  icon:
+    logo: material/dna
+    repo: fontawesome/brands/github
+  palette:
+    # 浅色模式
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: 切换至深色模式
+    # 深色模式
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: 切换至浅色模式
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.code.annotate
+
+plugins:
+  - search:
+      lang:
+        - zh
+        - en
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - admonition
+  - pymdownx.details
+  - tables
+  - attr_list
+  - md_in_html
+  - pymdownx.arithmatex:
+      generic: true
+  - toc:
+      permalink: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Hinna0818
+    - icon: fontawesome/solid/envelope
+      link: mailto:hinna01@163.com
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+nav:
+  - 首页: index.md
+  - 大四课程:
+      - Grade4/index.md
+      - 计算生物学:
+          - Grade4/computational_biology/index.md
+          - 实验1 - PPI网络分析: Grade4/computational_biology/exp1.md
+          - 实验2 - WGCNA分析: Grade4/computational_biology/exp2.md
+          - 实验3 - 网络聚类与随机游走: Grade4/computational_biology/exp3.md
+          - 实验4 - qPCR数据分析: Grade4/computational_biology/exp4.md
+          - 📝 考试资料: Grade4/computational_biology/exam-materials.md
+      - 计算机辅助药物设计: Grade4/CADD/index.md
+      - 计算分子生物学:
+          - Grade4/computational_molecular_biology/index.md
+          - 📝 考试说明: Grade4/computational_molecular_biology/exam-info.md
+      - 就业指导概论: Grade4/career_guidance/index.md
+  - 学习资源:
+      - 学习路线: learning-path.md
+      - 常用工具: tools.md
+      - 参考资料: resources.md
+  - 贡献指南: contributing.md
+  - 关于: about.md

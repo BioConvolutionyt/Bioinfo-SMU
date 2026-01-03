@@ -6,6 +6,11 @@
 
 _Bioinformatics Learning Resources for Southern Medical University_
 
+![GitHub watchers](https://img.shields.io/github/watchers/Hinna0818/Bioinfo-SMU?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/Hinna0818/Bioinfo-SMU?style=flat-square)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Hinna0818/Bioinfo-SMU?style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=Hinna0818&repo=Bioinfo-SMU&style=flat-square)
+
 [![GitHub stars](https://img.shields.io/github/stars/Hinna0818/Bioinfo-SMU?style=social)](https://github.com/Hinna0818/Bioinfo-SMU/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Hinna0818/Bioinfo-SMU?style=social)](https://github.com/Hinna0818/Bioinfo-SMU/network/members)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -26,6 +31,12 @@ _Bioinformatics Learning Resources for Southern Medical University_
 - 🧪 **科研工具**：常用的生物信息学分析方法和脚本
 
 > 💡 **宗旨**：帮助生信专业的同学们更好地学习和科研，共同进步！
+
+### 🙏 感谢对本项目贡献的同学
+
+<a href="https://github.com/Hinna0818/Bioinfo-SMU/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Hinna0818/Bioinfo-SMU" />
+</a>
 
 ---
 
