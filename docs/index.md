@@ -71,10 +71,9 @@ cd Bioinfo-SMU
     
     大四上学期核心课程，涵盖多种生物信息学分析方法：
     
-    - 🔗 PPI 网络分析
-    - 🧬 WGCNA 加权基因共表达网络分析
-    - 🕸️ 网络聚类与随机游走算法
-    - 📈 qPCR 数据分析
+    - PPI 网络分析
+    - WGCNA 加权基因共表达网络分析
+    - 网络聚类与随机游走算法
     
     [查看详情 →](Grade4/computational_biology/index.md)
 
