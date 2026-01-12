@@ -25,8 +25,7 @@ _Bioinformatics Learning Resources for Southern Medical University_
 
 本仓库收集整理了南方医科大学生物信息学专业学习过程中的各类资源，包括：
 
-- 📖 **课程资料**：各门专业课程的实验报告、作业和笔记
-- 🔬 **实验代码**：生物信息学相关实验的 R/Python 代码
+- 📖 **课程资料**：各门专业课程的实验报告框架、作业和笔记
 - 📝 **考试资料**：历年考试重点和复习资料
 - 🧪 **科研工具**：常用的生物信息学分析方法和脚本
 
@@ -48,7 +47,7 @@ git clone https://github.com/Hinna0818/Bioinfo-SMU.git
 cd Bioinfo-SMU
 ```
 
-浏览文件夹查看各类学习资料，每个实验都有对应的代码文件和报告。
+浏览文件夹查看各类学习资料。
 
 ---
 
@@ -60,10 +59,10 @@ cd Bioinfo-SMU
 3. 了解基本的统计学概念
 
 ### 进阶学习
-1. 生物网络分析
+1. 转录组学分析（建议从bulk RNA-seq开始）
 2. 基因组学数据分析
-3. 转录组学与表达分析
-4. 机器学习
+3. 流行病学建模
+4. 机器学习与深度学习
 
 ### 科研应用
 1. 选择感兴趣的疾病或生物学问题
@@ -136,36 +135,106 @@ cd Bioinfo-SMU
 
 This repository contains learning materials for Bioinformatics students at Southern Medical University, including:
 
-- Course materials and lab reports
-- Experiment code (R/Python)
-- Exam preparation materials
-- Research tools and scripts
+- 📖 **Course Materials**: Lab report templates, assignments, and notes
+- 📝 **Exam Resources**: Key points and review materials
+- 🧪 **Research Tools**: Bioinformatics analysis methods and scripts
+
+> 💡 **Mission**: Help bioinformatics students learn better and make progress together!
+
+### 🙏 Thanks to Contributors
+
+<a href="https://github.com/Hinna0818/Bioinfo-SMU/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Hinna0818/Bioinfo-SMU" />
+</a>
+
+---
 
 ### 🚀 Quick Start
 
 Clone the repository:
 ```bash
 git clone https://github.com/Hinna0818/Bioinfo-SMU.git
+cd Bioinfo-SMU
 ```
 
-### 📖 Contents
+Browse the folders to explore learning materials.
 
-- **Computational Biology**: PPI analysis, WGCNA, network clustering, qPCR analysis
-- **CADD**: Computer-Aided Drug Design
-- **Computational Molecular Biology**: Molecular modeling and simulation
+---
+
+### 📖 Learning Path
+
+#### For Beginners
+1. Master R and Python basics
+2. Learn fundamental sequencing technologies
+3. Understand basic statistical concepts
+
+#### Intermediate Level
+1. Transcriptomics analysis (start with bulk RNA-seq)
+2. Genomics data analysis
+3. Epidemiological modeling
+4. Machine learning & Deep learning
+
+#### Research Applications
+1. Choose a disease or biological problem of interest
+2. Utilize public databases (GEO, TCGA, etc.)
+3. Apply learned analysis methods
+4. Write research papers
+
+---
 
 ### 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions from all SMU bioinformatics students are welcome! Including:
 
-### 📄 License
+- ✅ Course notes and summaries
+- ✅ Lab code and reports
+- ✅ Exam key points and review materials
+- ✅ Learning experiences and tips
+- ✅ Bug fixes and code optimization
+- ✅ Documentation improvements
 
-This project is licensed under the MIT License.
+Feel free to Fork this repository and submit a Pull Request.
+
+---
+
+### ⚠️ Disclaimer
+
+- 📌 Materials are for reference only, please do not plagiarize
+- 📌 Respect intellectual property rights and cite sources
+- 📌 Discussion and communication are welcome
+- 📌 Contact us for any copyright concerns
+
+---
+
+### � Contact
+
+- **Author**: Nan He
+- **Email**: 📧 hinna01@163.com
+- **Issues**: [Submit issues or suggestions](https://github.com/Hinna0818/Bioinfo-SMU/issues)
+- **Discussions**: [Join discussions](https://github.com/Hinna0818/Bioinfo-SMU/discussions)
+
+---
+
+### �📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+### 🌟 Acknowledgments
+
+Thanks to all students who contributed to this repository!
+
+If this repository helps you, please give it a ⭐️ Star!
 
 ---
 
 <div align="center">
 
-**[⬆ 回到顶部](#-bioinfo-smu)**
+### 💪 Let's work hard and make progress together!
+
+**Made with ❤️ by SMU Bioinformatics Students**
+
+**[⬆ Back to Top](#-bioinfo-smu)**
 
 </div>
