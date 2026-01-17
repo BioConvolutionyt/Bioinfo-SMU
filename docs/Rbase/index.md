@@ -12,9 +12,9 @@
 
 | 课程 | 内容 | 链接 |
 |:----:|:----:|:----:|
-| **第一课** | R 语言基础入门 | [📖 查看教程](https://github.com/Hinna0818/Bioinfo-SMU/blob/main/Rbase/L1.html) \| [💻 下载](https://raw.githubusercontent.com/Hinna0818/Bioinfo-SMU/main/Rbase/L1.html) |
-| **第二课** | R 向量操作 | [📖 查看教程](https://github.com/Hinna0818/Bioinfo-SMU/blob/main/Rbase/L2.html) \| [💻 下载](https://raw.githubusercontent.com/Hinna0818/Bioinfo-SMU/main/Rbase/L2.html) |
-| **第三课** | R 基础数据结构 | [📖 查看教程](https://github.com/Hinna0818/Bioinfo-SMU/blob/main/Rbase/L3.html) \| [💻 下载](https://raw.githubusercontent.com/Hinna0818/Bioinfo-SMU/main/Rbase/L3.html) |
+| **第一课** | R 语言基础入门 | [📖 查看教程](https://github.com/Hinna0818/Bioinfo-SMU/blob/main/Rbase/L1.pdf) \| [💻 下载](L1.pdf) |
+| **第二课** | R 向量操作 | [📖 查看教程](https://github.com/Hinna0818/Bioinfo-SMU/blob/main/Rbase/L2.pdf) \| [💻 下载](L2.pdf) |
+| **第三课** | R 基础数据结构 | [📖 查看教程](https://github.com/Hinna0818/Bioinfo-SMU/blob/main/Rbase/L3.pdf) \| [💻 下载](L3.pdf) |
 
 ---
 
@@ -30,7 +30,7 @@
 
 **适合人群**：R 语言零基础学习者
 
-[:material-book-open: 在 GitHub 查看](https://github.com/Hinna0818/Bioinfo-SMU/blob/main/Rbase/L1.html){ .md-button } [:material-download: 下载 HTML](https://raw.githubusercontent.com/Hinna0818/Bioinfo-SMU/main/Rbase/L1.html){ .md-button }
+[:material-book-open: 在 GitHub 查看](https://github.com/Hinna0818/Bioinfo-SMU/blob/main/Rbase/L1.pdf){ .md-button } [:material-download: 下载 PDF](L1.pdf){ .md-button }
 
 ---
 
@@ -45,7 +45,7 @@
 
 **适合人群**：掌握 R 基础，想深入学习数据结构的学习者
 
-[:material-book-open: 在 GitHub 查看](https://github.com/Hinna0818/Bioinfo-SMU/blob/main/Rbase/L2.html){ .md-button } [:material-download: 下载 HTML](https://raw.githubusercontent.com/Hinna0818/Bioinfo-SMU/main/Rbase/L2.html){ .md-button }
+[:material-book-open: 在 GitHub 查看](https://github.com/Hinna0818/Bioinfo-SMU/blob/main/Rbase/L2.pdf){ .md-button } [:material-download: 下载 PDF](L2.pdf){ .md-button }
 
 ---
 
@@ -60,7 +60,7 @@
 
 **适合人群**：准备进行生物信息学数据分析的学习者
 
-[:material-book-open: 在 GitHub 查看](https://github.com/Hinna0818/Bioinfo-SMU/blob/main/Rbase/L3.html){ .md-button } [:material-download: 下载 HTML](https://raw.githubusercontent.com/Hinna0818/Bioinfo-SMU/main/Rbase/L3.html){ .md-button }
+[:material-book-open: 在 GitHub 查看](https://github.com/Hinna0818/Bioinfo-SMU/blob/main/Rbase/L3.pdf){ .md-button } [:material-download: 下载 PDF](L3.pdf){ .md-button }
 
 ---
 
