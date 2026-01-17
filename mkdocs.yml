@@ -97,6 +97,11 @@ nav:
           - Grade4/computational_molecular_biology/index.md
           - 📝 考试说明: Grade4/computational_molecular_biology/exam-info.md
       - 就业指导概论: Grade4/career_guidance/index.md
+  - R 语言教程:
+      - Rbase/index.md
+      - 第一课 - R 基础入门: Rbase/L1.html
+      - 第二课 - R 向量操作: Rbase/L2.html
+      - 第三课 - R 数据结构: Rbase/L3.html
   - 学习资源:
       - 学习路线: learning-path.md
       - 常用工具: tools.md
