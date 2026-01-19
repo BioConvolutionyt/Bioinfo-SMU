@@ -15,6 +15,7 @@
 | **第一课** | R 语言基础入门 | [📖 查看教程](https://github.com/Hinna0818/Bioinfo-SMU/blob/main/Rbase/L1.pdf) \| [💻 下载](L1.pdf) |
 | **第二课** | R 向量操作 | [📖 查看教程](https://github.com/Hinna0818/Bioinfo-SMU/blob/main/Rbase/L2.pdf) \| [💻 下载](L2.pdf) |
 | **第三课** | R 基础数据结构 | [📖 查看教程](https://github.com/Hinna0818/Bioinfo-SMU/blob/main/Rbase/L3.pdf) \| [💻 下载](L3.pdf) |
+| **第四课** | Tidyverse 数据处理 | [📖 查看教程](https://github.com/Hinna0818/Bioinfo-SMU/blob/main/Rbase/L4.pdf) \| [💻 下载](L4.pdf) |
 
 ---
 
@@ -64,13 +65,28 @@
 
 ---
 
+### 第四课：Tidyverse 数据处理
+
+!!! info "学习重点"
+    - tidyverse 生态系统概述
+    - dplyr 数据操作（select, filter, mutate, summarise 等）
+    - tidyr 数据整理（pivot_longer, pivot_wider 等）
+    - 管道操作符 `%>%` 的使用
+    - 数据处理实战案例
+
+**适合人群**：掌握 R 基础数据结构，想学习现代 R 数据分析流程的学习者
+
+[:material-book-open: 在 GitHub 查看](https://github.com/Hinna0818/Bioinfo-SMU/blob/main/Rbase/L4.pdf){ .md-button } [:material-download: 下载 PDF](L4.pdf){ .md-button }
+
+---
+
 ## 💡 学习建议
 
 !!! tip "学习路线"
-    1. **第一步**：按顺序学习三节课程，理解基础概念
+    1. **第一步**：按顺序学习四节课程，理解基础概念
     2. **第二步**：动手实践每个代码示例
     3. **第三步**：尝试用真实的生信数据进行练习
-    4. **第四步**：学习 tidyverse 生态（dplyr、ggplot2 等）
+    4. **第四步**：深入学习 tidyverse 生态（ggplot2 等）
 
 !!! success "学习资源"
     - [R for Data Science](https://r4ds.hadley.nz/) - 经典 R 语言数据分析书籍
