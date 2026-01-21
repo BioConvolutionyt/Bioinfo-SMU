@@ -72,7 +72,7 @@ cd Bioinfo-SMU/BioinfoTalus
 
 ### 2. 下载数据
 
-从 [GitHub Releases](https://github.com/BioConvolutionyt/BioinfoTalus) 下载示例数据：
+从 [GitHub Releases](https://github.com/BioConvolutionyt/BioinfoTalus/releases) 下载示例数据：
 
 1. 下载所有 `data_split*.zip` 文件
 2. 解压并放置到 `Data/` 目录下
@@ -136,7 +136,7 @@ BioinfoTalus/
 ## 🔗 相关链接
 
 - [📁 GitHub 仓库目录](https://github.com/Hinna0818/Bioinfo-SMU/tree/main/BioinfoTalus)
-- [📦 数据下载 (Releases)](https://github.com/Hinna0818/Bioinfo-SMU/releases)
+- [📦 数据下载 (Releases)](https://github.com/BioConvolutionyt/BioinfoTalus/releases)
 - [👤 贡献者主页 @BioConvolutionyt](https://github.com/BioConvolutionyt)
 
 ---
