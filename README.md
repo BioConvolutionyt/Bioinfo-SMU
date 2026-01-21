@@ -37,6 +37,10 @@ _Bioinformatics Learning Resources for Southern Medical University_
   <img src="https://contrib.rocks/image?repo=Hinna0818/Bioinfo-SMU" />
 </a>
 
+#### 特别感谢
+
+- [@BioConvolutionyt](https://github.com/BioConvolutionyt) - 贡献生信流程 (BioinfoTalus) 模块，包含 Bulk/单细胞/空间转录组分析 pipeline
+
 ---
 
 ## 🚀 快速开始
