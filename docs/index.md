@@ -78,6 +78,19 @@ cd Bioinfo-SMU
 
 ---
 
+### 生信流程 (BioinfoTalus)
+
+!!! example "转录组分析 Pipeline"
+    面向生物信息学转录组数据分析的 R 脚本集合，由 [@BioConvolutionyt](https://github.com/BioConvolutionyt) 贡献。
+    
+    - 🧬 Bulk 转录组分析（TCGA/GEO、差异分析、富集、生存分析等）
+    - 🔬 单细胞转录组分析（Seurat 流程、细胞注释、拟时序等）
+    - 📍 空间转录组分析（Visium、空间反卷积等）
+    
+    [查看详情 →](BioinfoTalus/index.md)
+
+---
+
 ### 大四课程
 
 === "计算生物学"
