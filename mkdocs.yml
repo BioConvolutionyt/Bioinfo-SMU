@@ -79,6 +79,10 @@ extra_javascript:
 
 nav:
   - 首页: index.md
+  - 大二课程:
+      - Grade2/index.md
+  - 大三课程:
+      - Grade3/index.md
   - 大四课程:
       - Grade4/index.md
       - 计算生物学:
@@ -93,6 +97,10 @@ nav:
           - Grade4/computational_molecular_biology/index.md
           - 📝 考试说明: Grade4/computational_molecular_biology/exam-info.md
       - 就业指导概论: Grade4/career_guidance/index.md
+  - R 语言教程:
+      - Rbase/index.md
+  - 生信流程:
+      - BioinfoTalus/index.md
   - 学习资源:
       - 学习路线: learning-path.md
       - 常用工具: tools.md

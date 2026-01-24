@@ -65,6 +65,32 @@ cd Bioinfo-SMU
 
 ## 🎯 课程概览
 
+### R 语言教程
+
+!!! tip "从零开始学 R"
+    系统学习 R 语言基础知识和生物信息学数据分析方法。
+    
+    - 📖 第一课：R 语言基础入门
+    - 📖 第二课：R 向量操作
+    - 📖 第三课：R 基础数据结构
+    
+    [开始学习 →](Rbase/index.md)
+
+---
+
+### 生信流程 (BioinfoTalus)
+
+!!! example "转录组分析 Pipeline"
+    面向生物信息学转录组数据分析的 R 脚本集合，由 [@BioConvolutionyt](https://github.com/BioConvolutionyt) 贡献。
+    
+    - 🧬 Bulk 转录组分析（TCGA/GEO、差异分析、富集、生存分析等）
+    - 🔬 单细胞转录组分析（Seurat 流程、细胞注释、拟时序等）
+    - 📍 空间转录组分析（Visium、空间反卷积等）
+    
+    [查看详情 →](BioinfoTalus/index.md)
+
+---
+
 ### 大四课程
 
 === "计算生物学"
