@@ -36,9 +36,6 @@ _Bioinformatics Learning Resources for Southern Medical University_
 <a href="https://github.com/Hinna0818/Bioinfo-SMU/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Hinna0818/Bioinfo-SMU" />
 </a>
-<a href="https://github.com/BioConvolutionyt">
-  <img src="https://images.weserv.nl/?url=github.com/BioConvolutionyt.png?v=4&h=64&w=64&fit=cover&mask=circle" />
-</a>
 
 #### 特别感谢
 
