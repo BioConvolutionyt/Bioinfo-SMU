@@ -29,6 +29,8 @@
     - R 包的下载、读取和卸载（CRAN、Bioconductor、GitHub）
     - 文件的读取与写入
     - R 源文件的使用方法
+  
+**公众号推文链接**：https://mp.weixin.qq.com/s/ekygBz43ILxO4ne0mCjDxA
 
 **适合人群**：R 语言零基础学习者
 
@@ -46,6 +48,8 @@
     - 常用向量相关函数
 
 **适合人群**：掌握 R 基础，想深入学习数据结构的学习者
+
+**公众号推文链接**：https://mp.weixin.qq.com/s/bB5lOeqRQVGA4n284Pzt0A
 
 [:material-book-open: 在 GitHub 查看](https://github.com/Hinna0818/Bioinfo-SMU/blob/main/Rbase/L2.pdf){ .md-button } [:material-download: 下载 PDF](L2.pdf){ .md-button }
 
