@@ -47,9 +47,10 @@
     - 缺失值的处理
     - 常用向量相关函数
 
-**适合人群**：掌握 R 基础，想深入学习数据结构的同学
 
 **公众号推文链接**：https://mp.weixin.qq.com/s/bB5lOeqRQVGA4n284Pzt0A
+
+**适合人群**：掌握 R 基础，想深入学习数据结构的同学
 
 [:material-book-open: 在 GitHub 查看](https://github.com/Hinna0818/Bioinfo-SMU/blob/main/Rbase/L2.pdf){ .md-button } [:material-download: 下载 PDF](L2.pdf){ .md-button }
 
@@ -63,6 +64,8 @@
     - 数据框（Data Frame）的清洗与整理
     - 三种结构的差异与应用场景
     - Base R 数据清洗范式
+  
+**公众号推文链接**：https://mp.weixin.qq.com/s/QGyuHDArCZ7j4NeVdbDRpg
 
 **适合人群**：准备进行生物信息学数据分析的学习者
 
