@@ -82,6 +82,8 @@
     - 管道操作符 `%>%` 的使用
     - 数据处理实战案例
 
+**公众号推文链接**：https://mp.weixin.qq.com/s/1Kj_bql-KEJBGdLt8_Quiw
+
 **适合人群**：掌握 R 基础数据结构，想学习现代 R 数据分析流程的学习者
 
 [:material-book-open: 在 GitHub 查看](https://github.com/Hinna0818/Bioinfo-SMU/blob/main/Rbase/L4.pdf){ .md-button } [:material-download: 下载 PDF](L4.pdf){ .md-button }
