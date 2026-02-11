@@ -99,6 +99,7 @@ nav:
       - 就业指导概论: Grade4/career_guidance/index.md
   - R 语言教程:
       - Rbase/index.md
+      - L6 - R 函数与包开发: Rbase/L6_functions.md
   - 生信流程:
       - BioinfoTalus/index.md
   - 学习资源:
