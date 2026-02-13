@@ -17,7 +17,7 @@
 | **第三课** | R 基础数据结构 | [📖 查看教程](https://github.com/Hinna0818/Bioinfo-SMU/blob/main/Rbase/L3.pdf) \| [💻 下载](L3.pdf) |
 | **第四课** | Tidyverse 数据处理 | [📖 查看教程](https://github.com/Hinna0818/Bioinfo-SMU/blob/main/Rbase/L4.pdf) \| [💻 下载](L4.pdf) |
 | **第五课** | R 流程控制 | [📖 查看教程](https://github.com/Hinna0818/Bioinfo-SMU/blob/main/Rbase/L5.pdf) \| [💻 下载](L5.pdf) |
-| **第六课** | R 函数与包开发 | [📖 在线阅读](L6_functions.md) \| [💻 下载 Rmd](https://github.com/Hinna0818/Bioinfo-SMU/blob/main/Rbase/L6.Rmd) |
+| **第六课** | R 函数与包开发 | [📖 查看教程] \|[💻 下载](L6.pdf) ](https://github.com/Hinna0818/Bioinfo-SMU/blob/main/Rbase/L6.pdf) |
 
 ---
 
@@ -32,8 +32,6 @@
     - R 源文件的使用方法
   
 **公众号推文链接**：https://mp.weixin.qq.com/s/ekygBz43ILxO4ne0mCjDxA
-
-**适合人群**：R 语言零基础学习者
 
 [:material-book-open: 在 GitHub 查看](https://github.com/Hinna0818/Bioinfo-SMU/blob/main/Rbase/L1.pdf){ .md-button } [:material-download: 下载 PDF](L1.pdf){ .md-button }
 
@@ -51,8 +49,6 @@
 
 **公众号推文链接**：https://mp.weixin.qq.com/s/bB5lOeqRQVGA4n284Pzt0A
 
-**适合人群**：掌握 R 基础，想深入学习数据结构的同学
-
 [:material-book-open: 在 GitHub 查看](https://github.com/Hinna0818/Bioinfo-SMU/blob/main/Rbase/L2.pdf){ .md-button } [:material-download: 下载 PDF](L2.pdf){ .md-button }
 
 ---
@@ -67,8 +63,6 @@
     - Base R 数据清洗范式
   
 **公众号推文链接**：https://mp.weixin.qq.com/s/QGyuHDArCZ7j4NeVdbDRpg
-
-**适合人群**：准备进行生物信息学数据分析的学习者
 
 [:material-book-open: 在 GitHub 查看](https://github.com/Hinna0818/Bioinfo-SMU/blob/main/Rbase/L3.pdf){ .md-button } [:material-download: 下载 PDF](L3.pdf){ .md-button }
 
@@ -85,8 +79,6 @@
 
 **公众号推文链接**：https://mp.weixin.qq.com/s/1Kj_bql-KEJBGdLt8_Quiw
 
-**适合人群**：掌握 R 基础数据结构，想学习现代 R 数据分析流程的学习者
-
 [:material-book-open: 在 GitHub 查看](https://github.com/Hinna0818/Bioinfo-SMU/blob/main/Rbase/L4.pdf){ .md-button } [:material-download: 下载 PDF](L4.pdf){ .md-button }
 
 ---
@@ -100,7 +92,7 @@
     - apply 函数族（apply、lapply、sapply 等）
     - 函数式编程基础
 
-**适合人群**：掌握 R 数据处理，想提升编程能力的学习者
+**公众号推文链接**：https://mp.weixin.qq.com/s/thm_qtawHiSJJO_OP_xwCA
 
 [:material-book-open: 在 GitHub 查看](https://github.com/Hinna0818/Bioinfo-SMU/blob/main/Rbase/L5.pdf){ .md-button } [:material-download: 下载 PDF](L5.pdf){ .md-button }
 
@@ -116,7 +108,7 @@
     - 使用 source() 和 debug() 调试函数
     - R 包开发流程（devtools、testthat）
 
-**适合人群**：想把数据分析脚本模块化、编写可复用代码和开发 R 包的学习者
+**公众号推文链接**：https://mp.weixin.qq.com/s/bDzhc05GRaGZ5ADIclrsjA
 
 [:material-book-open: 在线阅读](L6_functions.md){ .md-button } [:material-download: 下载 Rmd](https://github.com/Hinna0818/Bioinfo-SMU/blob/main/Rbase/L6.Rmd){ .md-button }
 
